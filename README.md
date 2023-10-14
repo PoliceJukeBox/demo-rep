@@ -1,2 +1,2 @@
 # DEMO
-Some plain text here!
+That is gone now.
